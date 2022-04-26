@@ -1,4 +1,4 @@
 - 👋 Hi, I’m Ricardo Fantinelli
-- 👀 I’m interested in Python, Azure and Java.
+- 👀 I’m interested in Python and Azure.
 - 💞️ I’m looking to collaborate on Python (mainly Pandas) projects. 
 - 📫 How to reach me fantaere@gmail.com
